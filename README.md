@@ -62,7 +62,9 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 <img width="993" height="1280" alt="image" src="https://github.com/user-attachments/assets/b4faca47-01e3-410f-8219-bbd9bbf62223" />
 
 
+
 **D.Conclusions:**
+
 The experiment successfully demonstrates the negative resistance behavior of the Gunn diode, confirming its ability to generate microwave oscillations. The I–V curve clearly shows the region of negative differential resistance, essential for oscillation. The PIN diode modulator effectively varied the signal amplitude, and the depth of modulation was accurately measured. Thus, the Gunn diode oscillator and PIN modulator were found to work efficiently for microwave generation and amplitude modulation applications.
 
 **Precautions:**
@@ -72,5 +74,6 @@ The experiment successfully demonstrates the negative resistance behavior of the
 •	Observation should be taken properly.
 
 **Result:**
+
 The I–V characteristics of the Gunn diode were successfully plotted, showing a clear negative resistance region. The depth of modulation of the PIN diode was calculated from the difference in attenuation readings, confirming proper amplitude modulation of the microwave signal.
 
